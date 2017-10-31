@@ -1,0 +1,77 @@
+body {
+  background-color: #636363;
+  margin: 0px;
+  padding: 0px;
+  font-size: 2em;
+
+}
+#banner {
+  background-color: #790000;
+  position: sticky;
+
+}
+.li-active {
+  background-color: #dfa4a4;
+  border: none !important;
+}
+
+#banner a {
+  color: #dfa4a4;
+
+}
+.a-active {
+  color: #790000 !important;
+}
+a:hover {
+  text-decoration: none;
+}
+li:hover {
+  border-top: 1px solid black;
+  border-left: 2px solid gray;
+  border-bottom: 2px solid gray;
+  border-right: 1px solid black;
+}
+hr {
+
+  border: 2px solid #790000;
+  max-width: 50%;
+
+}
+main {
+  margin: 0px 5% auto;
+  text-align: center;
+  background-color: #b9b9b9;
+
+}
+
+#portfolio {
+  margin: 40px;
+  padding: 40px, 0px;
+}
+h3 {
+  margin: 0 0 40px 0;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+#contact a:link, a:visited, a:hover, a:active {
+  color: black;
+}
+#contact {
+  font-size: 0.5em;
+}
+img {
+  max-width: 300px;
+  max-height: 200px;
+  margin: 20px;
+}
+#about {
+  padding: 5%;
+
+}
+footer {
+  text-align: center;
+  font-size: 0.5em;
+  background-color: rgb(172, 133, 133);
+  padding: 20px;
+
+}
